@@ -1,0 +1,7 @@
+1.Biểu đồ phân phối thành phố: Giúp bạn nhận biết phần lớn sinh viên đến từ thành phố nào trong bộ dữ liệu
+2.Biểu đồ phân phối điểm thi tuyển sinh: Thể hiện sự phân bố điểm số của sinh viên trong bộ dữ liệu.
+3.Biểu đồ mối quan hệ giữa thành phố và tình trạng nhập học: Xác định tỷ lệ nhập học của sinh viên theo thành phố.
+4.Biểu đồ tỷ lệ nhập học theo thành phố và giới tính: Hiển thị sự phân bố của các sinh viên trong các thành phố theo giới tính và tình trạng nhập học
+5.Xác định ngưỡng điểm nhập học: Dùng histogram và các đường ngưỡng (mean, median) để xác định ngưỡng điểm cho việc nhập học.
+6.Biểu đồ tỷ lệ nhập học theo giới tính: Hiển thị tỷ lệ nhập học giữa nam và nữ, giúp thấy sự khác biệt về tỷ lệ nhập học giữa các nhóm giới tính.
+7.Biểu đồ phát hiện bất thường: Sử dụng boxplot để phát hiện các giá trị ngoại lai trong điểm thi đầu vào của sinh viên.
